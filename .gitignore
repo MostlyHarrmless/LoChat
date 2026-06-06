@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+*.db
+
+certificate/
+certificates/
+
+*.key
+*.crt
+*.pem
+
+venv/
+.venv/
